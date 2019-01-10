@@ -6,9 +6,9 @@ import sys
 g = sys.platform
 k = "\\"
 print(sys.prefix)
-print(f"{(sys.prefix).split(sep=k)[2]}, теперь я знаю твоё имя..................................")
+print(f"{(sys.prefix).split(sep=k)[2]}, теперь я знаю твоё имя............")
 if "linux" in g:
-    print("оу май.................................................................")
+    print("оу май...")
 
 print('Hello мир')
 
