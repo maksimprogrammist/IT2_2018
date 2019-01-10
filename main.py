@@ -5,3 +5,4 @@ for i in range(10):
 
 # эту строчку я добавил с сайта
 # de pranque
+# klass
